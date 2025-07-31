@@ -2,7 +2,7 @@
 
 Submitted by: McKenna Parker
 
-Sea Monster Games Crowdfunding Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Games Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 4 hours spent in total
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/walkthrough.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif (https://www.screentogif.com/) for Windows
@@ -37,7 +37,7 @@ One challenge that I encountered while improving on the app before submission wa
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 McKenna Parker
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
